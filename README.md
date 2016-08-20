@@ -1,2 +1,2 @@
-# Pok-Maps
-V1.1
+# Poké Maps
+Versioni aggiornate
